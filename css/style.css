@@ -1,0 +1,15 @@
+body {
+    color:rgb(17, 61, 2);
+    /* -webkit-text-stroke: 1px rgb(7, 0, 0); */
+  }
+
+  .jumbotron {
+    /* background-image: url('../images/nasa.jpg'); */
+    background-image: url('../images/bio-diversity4.jpeg');
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+  /* .box_textshadow {
+    text-shadow: 2px 2px 0px #FF0000; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
+/* } */ 
